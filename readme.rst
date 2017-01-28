@@ -2,7 +2,7 @@
 SIMPEG
 ###################
 
- SISTEM INFORMASI KEPEGAWAIAN
+ SISTEM INFORMASI KEPEGAWAIAN .
 
 *******************
 INSTALASI
@@ -10,13 +10,15 @@ INSTALASI
 
 Clone/Download, setting config/database.php , config/config.php
 pastikan mod rewrite engine on
-create new db dan upload simpeg.sql.gz
+create new db dan upload simpeg.sql.gz .
+
 **************************
 LISENSI
 **************************
 
 lisensi MIT,
-silahkan edit dan kembangkan
+silahkan edit dan kembangkan.
+
 *******************
 Server Requirements
 *******************
